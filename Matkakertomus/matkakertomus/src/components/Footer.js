@@ -13,7 +13,7 @@ const Footer = () => {
                     <div className="u-block">
                       <div className="u-block-container u-clearfix">
                         <h5 className="u-block-header u-text">Tietoa</h5>
-                        <div className="u-block-content u-text u-text-2">Sivullamme voit luoda sekä lukea muiden käyttäjien tehtyjä tarinoita matkoistaan.</div>
+                        <div className="u-block-content u-text u-text-2">Sivullamme voit luoda sekä lukea muiden käyttäjien tehtyjä tarinoita matkoistaan.<br></br> Sivu on tehty 2022 Ohjelmistoprojektikurssille Savonian AMK:ssa. </div>
                       </div>
                     </div>
                   </div>
