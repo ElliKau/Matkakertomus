@@ -5,6 +5,7 @@ import {App} from './App';
 import reportWebVitals from './reportWebVitals';
 import {BrowserRouter as Router} from 'react-router-dom'
 import {HashRouter} from 'react-router-dom'
+// Site hosted at GitHub pages
 
 ReactDOM.render(
   <React.StrictMode>
